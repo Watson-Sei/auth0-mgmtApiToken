@@ -1,2 +1,2 @@
 # auth0-mgmtApiToken
-Periodically generate Auth0 Management API Token dynamically in Docker
+コンテナ内でAuth0 Management API Tokenの動的な生成を定期的に実行する為の資料
